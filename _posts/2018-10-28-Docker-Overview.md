@@ -3,7 +3,7 @@ layout: post
 title: Docker 概览
 tags: tool docker
 date: 2018-10-28 10:13:00
-postPatterns: 'circuitBoard'
+image: /img/docker_overview.png
 ---
 
 Docker 是一个开发,运输和运行应用程序的开源平台. Docker 可以帮你将应用程序从物理硬件(比如电脑)中分离开来, 以快速传送软件. 使用docker, 你可以像管理应用程序一样管理你的物理硬件. 利用 docker 快速运输,测试和部署代码方法的优势, 你可以极大的缩减从编码到产品测试所需时间.
