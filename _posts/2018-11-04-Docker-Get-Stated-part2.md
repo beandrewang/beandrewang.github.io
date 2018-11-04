@@ -8,7 +8,7 @@ image: /img/docker_getstarted.png
 
 ## 前提条件
 
-* 安装 [Dodcker 1.13 或更高版本](https://docs.docker.com/engine/installation/)。
+* 安装 [Docker 1.13 或更高版本](https://docs.docker.com/engine/installation/)。
 * 阅读第一部分[方向与设置](https://beandrewang.github.io/2018-10-28-Docker-Get-Stated-part1/)
 * 快速测试安装环境，确保安装环境运行正确。
 
